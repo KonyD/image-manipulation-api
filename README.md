@@ -13,7 +13,7 @@ This project is an image manipulation API built using [GoFiber](https://gofiber.
 1. Clone the repository:
 ```bash
 git clone https://github.com/KonyD/image-manipulation-api.git
-cd <image-manipulation-api>
+cd image-manipulation-api
 ```
 
 2. Install the dependencies:
